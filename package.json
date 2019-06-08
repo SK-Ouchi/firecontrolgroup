@@ -1,0 +1,11 @@
+{
+  "name": "firecontrolgroupllc",
+  "version": "1.0.0",
+  "description": "Lanidng page for Fire Control Group llc",
+  "main": "app.js",
+  "scripts": {
+    "start": "cd backend && node app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
